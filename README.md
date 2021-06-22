@@ -3,8 +3,8 @@
 
 This challenge is to build out a landing page from the designs provided.
 The users should be able to:
-    - view the optimal layout for the page depending on their device's screen size
-    - see hover states for all interactive elements on the page
+    * view the optimal layout for the page depending on their device's screen size
+    * see hover states for all interactive elements on the page
 
 * mobile first approach, search
 * HTML first, then add CSS
@@ -16,4 +16,3 @@ The users should be able to:
 * share your solution page in the **#finished-projects** channel of the slack community
 * blog about your experience building your project.
   Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned
-* 
