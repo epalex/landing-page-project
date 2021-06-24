@@ -15,7 +15,6 @@ The users should be able to:
 
 ## open issues
 * logo, align left
-* desktop design
-* flexbox, css grid, search..
-* bg desktop..
 * figma course, search
+* adapt flexbox to mobile design
+* css code, calibrate..
