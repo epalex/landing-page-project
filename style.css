@@ -1,0 +1,71 @@
+
+body {
+    background-image: url(./images/bg-mobile.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: #684BB1;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+header {
+    margin-top: 3rem;
+    margin-bottom: 6rem;
+}
+
+main {
+    color: white;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    line-height: 1.5;
+}
+
+.community {
+    max-width: 300px;
+    margin: 6rem auto 4rem auto;
+}
+
+.register-btn {
+    font-size: 0.875rem;
+    border: none;
+    border-radius: 2rem;
+    padding: 1.2rem 6rem;
+    color: hsl(257, 40%, 49%);
+    cursor: pointer;
+    margin-top: 1rem;
+}
+
+.register-btn:hover {
+    background-color: hsl(300, 69%, 71%);
+    color: white;
+}
+
+.fab {
+    color: white;
+    font-size: 0.8rem;
+    padding: 0.8rem;
+    margin: 0.25rem;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+.fab:hover {
+    cursor: pointer;
+    color: hsl(300, 69%, 71%);
+    border: 1px solid hsl(300, 69%, 71%);
+}
+
+footer p {
+    margin-top: 3rem;
+    font-size: 0.8rem;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: tomato;
+}
