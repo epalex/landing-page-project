@@ -21,8 +21,3 @@ The users should be able to:
 * Review the mobile first approach
 * Be familiar with figma design
 * Be familiar with markdown
-
-## my notes
-* submit your solution on the platform for the rest of the community to see
-* share your solution page in the **#finished-projects** channel of the slack community
-
